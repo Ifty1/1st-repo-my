@@ -1,0 +1,90 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.skip-color{
+    color: rgb(235, 157, 68);
+}
+.flexible-container{
+    display: flex;
+    margin: 100px 20px;
+}
+.first-div{
+    width: 50%;
+    padding-left: 5%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.first-div img{
+    width: 70%;
+}
+.button-vhai{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(187, 108, 17),rgb(238, 165, 81));
+
+   color: aliceblue;
+    padding: 20px 40px;
+    border-radius: 60px;
+
+}
+
+.vai-vai{
+    width:80%
+}
+.recipie-bro{
+    text-align: center;
+}
+.second-div{
+     width: 40%;
+    margin-left: 5%;
+    text-align: center;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 20px;  
+    padding:20px;
+}
+.ima-border{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.last-div{
+    
+    width: 40%;
+    height:5% ;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 20px;
+}
+.youtube-div{
+   margin-right: 20%;
+   
+}
+.footer{
+    background-color: rgb(3, 2, 2);
+    text-align: center;
+    padding:3%;
+}
+.net-work{
+    color: rgb(53, 49, 49);
+}
+.eat-net{
+    color: rgb(253, 253, 253);
+}
+.youtube-bro{
+    color: rgb(235, 157, 68);
+}
+.insta-bro{
+    color: rgb(235, 157, 68);
+
+}
+.dri-div{
+    color: rgb(235, 157, 68);
+}
